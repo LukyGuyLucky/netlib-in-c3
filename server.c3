@@ -1,17 +1,4 @@
-/**
- * This file is part of netlib
- * which is licensed under the zlib license
- *
- * github.com/univrsal/netlib
- * netlib is a small network library
- * heavily based on SDL_net without
- * the dependency on SDL
- *
- * Documentation is directly taken from SDL_net
- * I take no credit for this code, I only
- * reformatted it for my needs and made slight changes
- * Source: libsdl.org/projects/SDL_net/docs/demos/tcpserver.c
- */
+
 import netlib;
 import libc;
 import std::thread;
